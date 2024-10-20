@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on HushHush Recruiter Project 😎
+
 📫 How to reach me: I will let you know soon 😉
+
 🌱 I’m currently learning Natural Language Processing 😅
