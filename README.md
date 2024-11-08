@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Natural Language Processing 😅
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arundahiya94&border_radius=5)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arundahiya94)](https://git.io/streak-stats)
