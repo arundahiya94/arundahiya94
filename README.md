@@ -61,6 +61,7 @@ I'm a passionate and driven student pursuing a **Master of Science in Applied Da
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
 
 ### Data Analysis & Visualization:
 
@@ -92,7 +93,6 @@ I'm a passionate and driven student pursuing a **Master of Science in Applied Da
 ### Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/arun-kumar-94in)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:dahiya.kumar.arun@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:dahiya.akd94@gmail.com)
 
 
