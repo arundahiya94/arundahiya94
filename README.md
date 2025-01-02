@@ -81,7 +81,8 @@ I'm a passionate and driven student pursuing a **Master of Science in Applied Da
 
 ### Contact Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/arun-kumar-94in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/arun-kumar-94in)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:dahiya.akd94@gmail.com)
+
 
 
