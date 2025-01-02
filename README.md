@@ -73,15 +73,6 @@ I'm a passionate and driven student pursuing a **Master of Science in Applied Da
 - Natural Language Processing: NLTK, spaCy, Hugging Face
 - Model Deployment: Flask, FastAPI, Docker
 
-### Version Control & Collaboration:
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![SVN](https://img.shields.io/badge/-SVN-809CC9?logo=subversion&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile-28B463?logo=agile&logoColor=white)
-
 ### Currently Learning:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
