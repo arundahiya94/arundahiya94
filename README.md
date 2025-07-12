@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-I'm a passionate and driven student pursuing a **Master of Science in Applied Data Science and Analytics** at SRH University Heidelberg, Germany. My expertise lies in harnessing data to generate actionable insights, designing scalable systems, and deploying innovative machine learning solutions. I enjoy collaborating on projects that bridge the gap between technology and business impact.
+I'm a passionate and driven student pursuing a **Master of Science in Applied Data Science and Analytics**. My expertise lies in harnessing data to generate actionable insights, designing scalable systems, and deploying innovative machine learning solutions. I enjoy collaborating on projects that bridge the gap between technology and business impact.
 
 ### Languages & Programming:
 
