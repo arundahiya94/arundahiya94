@@ -93,13 +93,10 @@ I'm a passionate and driven student pursuing a **Master of Science in Applied Da
   <img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="30">
 </h2>
 
-<p align="center"><em>Training in progress. Rebooting soon with sharper ideas and cooler projects.</em></p>
-
----
-
 ### 🛠️ Reason for Closure
-**Critical system upgrade in progress:**
-Progress: [███░░░░░░░░] 25%
+**Critical system upgrade in progress.** 
+
+Rebooting soon with sharper ideas and cooler projects: Progress: [███░░░░░░░░] 25%
 
 
 ### ⏱️ Reopening Date
@@ -121,3 +118,6 @@ When <code>model.fit()</code> finally converges.
   <a href="https://www.linkedin.com/in/arun-kumar-94in"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-connect-blue"></a>
 </p>
 <p align="center"><i>Tip: Check pinned repos below for past work while the paint dries.</i></p>
+
+
+
