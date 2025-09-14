@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 # Hi there! 👋
 
@@ -85,4 +84,40 @@ I'm a passionate and driven student pursuing a **Master of Science in Applied Da
 [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:dahiya.akd94@gmail.com)
 
 
+-->
 
+<h1 align="center">🚧 Profile Under Construction 🚧</h1>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="30">
+  Sorry, We're Closed!
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif" width="30">
+</h2>
+
+<p align="center"><em>Training in progress. Rebooting soon with sharper ideas and cooler projects.</em></p>
+
+---
+
+### 🛠️ Reason for Closure
+**Critical system upgrade in progress:**
+Progress: [███░░░░░░░░] 25%
+
+
+### ⏱️ Reopening Date
+When <code>model.fit()</code> finally converges.
+
+> My brain is currently compiling a massive amount of new information. Please expect some delays in new content.
+
+**For urgent matters:** send a meme or an encouraging message to <code>dahiya.akd94@gmail.com</code>.
+
+---
+
+**The management (me) apologizes for any inconvenience and promises to reopen with better features.**
+
+---
+<p align="center">
+  <img alt="status" src="https://img.shields.io/badge/status-upskilling-informational">
+  <img alt="focus"  src="https://img.shields.io/badge/focus-reading%20more%20pages%20than%20notifications%20%7C%20better%20coffee-success">
+  <a href="mailto:dahiya.akd94@gmail.com"><img alt="email" src="https://img.shields.io/badge/email-say%20hi!-red"></a>
+  <a href="https://www.linkedin.com/in/arun-kumar-94in"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-connect-blue"></a>
+</p>
+<p align="center"><i>Tip: Check pinned repos below for past work while the paint dries.</i></p>
