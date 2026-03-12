@@ -96,7 +96,7 @@ I'm a passionate and driven student pursuing a **Master of Science in Applied Da
 ### 🛠️ Reason for Closure
 **Critical system upgrade in progress.** 
 
-Rebooting soon with sharper ideas and cooler projects: Progress: [███░░░░░░░░] 25%
+Rebooting soon with sharper ideas and cooler projects: Progress: [████░░░░░░░] 35%
 
 
 ### ⏱️ Reopening Date
