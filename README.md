@@ -95,12 +95,12 @@ Near-real-time ETL pipeline (GBFS API → Pub/Sub → BigQuery, ~2-min refresh) 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arundahiya94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundahiya94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
+<img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arundahiya94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
