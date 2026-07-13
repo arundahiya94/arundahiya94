@@ -95,7 +95,7 @@ Near-real-time ETL pipeline (GBFS API → Pub/Sub → BigQuery, ~2-min refresh) 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arundahiya94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arundahiya94&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arundahiya94&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
@@ -104,7 +104,7 @@ Near-real-time ETL pipeline (GBFS API → Pub/Sub → BigQuery, ~2-min refresh) 
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arundahiya94&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=arundahiya94&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
 </p>
 
 ---
