@@ -36,13 +36,11 @@ jobs:
           token: ${{ secrets.PROFILE_TOKEN }}
 
       - name: Generate trophy card (self-hosted, replaces vercel service)
-        uses: dvenegas/github-profile-trophy-generator@v1
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: arundahiya94
-          theme: tokyonight
-          no-frame: true
-          margin-w: 15
-          output: profile/trophy.svg
+          output_path: profile/trophy.svg
+          token: ${{ secrets.PROFILE_TOKEN }}
 
       - name: Commit cards
         run: |
