@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-94in/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahiya.akd94@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arundahiya94)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arundahiya94&color=8B5CF6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/arundahiya94?style=flat-square&color=8B5CF6&label=Followers)
@@ -26,17 +25,13 @@ I'm an **AI Engineer** based in Mannheim, Germany, with a **7+ year software eng
 
 Before moving into AI, I spent years building **Python microservices and Java integrations** in regulated environments (Citi Bank regulatory tech, telecom CRM), which shapes how I approach AI systems today: clean code, testable pipelines, CI/CD discipline, and production reliability over demos.
 
-I hold an **M.Sc. in Applied Data Science and Analytics** from SRH University Heidelberg, where my thesis benchmarked 77 transformer models across 5 architectures for mental-health discourse classification.
+I hold an **M.Sc. in Applied Data Science and Analytics** from SRH University Heidelberg.
 
 ```yaml
 Engineering Focus: Agentic AI · RAG · LLM Orchestration · Data Engineering
 Mindset: Ship production systems, not prototypes
 Background: Java/Python engineer → AI/ML engineer
 ```
-
-**🎯 Open To:** AI/ML Engineer · GenAI Engineer · Agentic AI Engineer roles in Germany & EU (no visa sponsorship required)
-
----
 
 ### 🛠️ Tech Stack
 
@@ -145,57 +140,6 @@ Modeled data across staging, fact, dimension, and mart layers; delivered Tableau
 
 ---
 
-### 💼 Experience
-
-**AI Engineer Intern** · Mercedes-Benz
-`Nov 2025 – May 2026` · Stuttgart, Germany
-
-AI/Innovation team within corporate communications.
-- Architected and deployed production multi-agent AI workflows on Google Vertex AI using LangGraph and Google ADK
-- Implemented RAG pipelines with Vertex AI native and ChromaDB vector stores, grounding outputs in internal knowledge
-- Fine-tuned a speech-generation agent and added an image-generation sub-agent for executive communications
-
-`LangGraph` `Vertex AI` `Google ADK` `RAG` `ChromaDB`
-
-<br>
-
-**Senior Software Engineer** · Iris Software Solutions
-`Sep 2021 – Feb 2024` · Noida, India
-
-Embedded within Citi Bank's regulatory technology team.
-- Redesigned a slow RWA batch pipeline handling millions of records, cutting execution time from 12 to 10 hours (~17%)
-- Built Python REST microservices to validate and route batch outputs downstream with robust error handling
-- Automated CI/CD with Jenkins, enforced pytest coverage, and mentored 2 junior engineers to independent ownership
-
-`Python` `REST APIs` `Jenkins` `CI/CD` `pytest`
-
-<br>
-
-**Software Engineer** · Tech Mahindra Ltd.
-`Sep 2016 – Sep 2021` · Noida, India
-
-Telecom CRM integrations for Sunrise UPC (Switzerland).
-- Delivered Java-based SOAP/REST integrations for AMDOCS CRM supporting payment, dunning, and order-reversal workflows
-- Resolved production issues and mentored junior developers
-
-`Java` `SOAP` `REST` `AMDOCS CRM`
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Thesis Result | 82.1% accuracy, 79% macro F1 across 77 benchmarked transformer models |
-| Process Optimization | Cut RWA batch execution time by ~17% (12h → 10h) at Citi Bank regulatory tech |
-| Operational Impact | Reduced bike-share station idle time by 15% via real-time analytics pipeline |
-
-</div>
-
----
-
 ### 📜 Certifications
 
 **NVIDIA**
@@ -265,7 +209,6 @@ Open To:    AI/ML Engineer & GenAI Engineer roles across Germany and the EU
 
 [![Gmail](https://img.shields.io/badge/Gmail-dahiya.akd94%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahiya.akd94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arun--kumar--94in-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-94in/)
-[![GitHub](https://img.shields.io/badge/GitHub-arundahiya94-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arundahiya94)
 
 ---
 
