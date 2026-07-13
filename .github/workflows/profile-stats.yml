@@ -18,7 +18,7 @@ jobs:
           card: stats
           options: username=arundahiya94&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -26,19 +26,30 @@ jobs:
           card: top-langs
           options: username=arundahiya94&layout=compact&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_TOKEN }}
 
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=arundahiya94&theme=tokyonight&hide_border=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_TOKEN }}
+
+      - name: Generate trophies card
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          token: ${{ secrets.PROFILE_TOKEN }}
+          branch: master
+          # Saves the trophy grid directly into your repository to prevent 404/loading errors
+          output: profile/trophy.svg 
+        env:
+          # Optional: customized to match your tokyonight theme preferences
+          ARGUMENTS: --theme=tokyonight --no-frame=true --margin-w=15 
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README stat cards" || exit 0
+          git commit -m "Update README stat cards and trophies via PAT" || exit 0
           git push
