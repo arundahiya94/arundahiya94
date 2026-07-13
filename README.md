@@ -263,7 +263,7 @@ Open To:    AI/ML Engineer & GenAI Engineer roles across Germany and the EU
 
 ### 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-dahiya.kumar.arun%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahiya.kumar.arun@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dahiya.akd94%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahiya.akd94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arun--kumar--94in-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-94in/)
 [![GitHub](https://img.shields.io/badge/GitHub-arundahiya94-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arundahiya94)
 
