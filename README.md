@@ -104,7 +104,7 @@ Near-real-time ETL pipeline (GBFS API → Pub/Sub → BigQuery, ~2-min refresh) 
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arundahiya94&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
+<img src="./profile/trophy.svg" alt="trophies" />
 </p>
 
 ---
