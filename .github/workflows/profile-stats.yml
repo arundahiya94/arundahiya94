@@ -35,21 +35,19 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
-      - name: Generate trophies card
-        uses: ryo-ma/github-profile-trophy@master
+      - name: Generate trophy card (self-hosted, replaces vercel service)
+        uses: dvenegas/github-profile-trophy-generator@v1
         with:
-          token: ${{ secrets.PROFILE_TOKEN }}
-          branch: master
-          # Saves the trophy grid directly into your repository to prevent 404/loading errors
-          output: profile/trophy.svg 
-        env:
-          # Optional: customized to match your tokyonight theme preferences
-          ARGUMENTS: --theme=tokyonight --no-frame=true --margin-w=15 
+          username: arundahiya94
+          theme: tokyonight
+          no-frame: true
+          margin-w: 15
+          output: profile/trophy.svg
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update README stat cards and trophies via PAT" || exit 0
+          git commit -m "Update README stat cards" || exit 0
           git push
