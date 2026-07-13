@@ -9,7 +9,7 @@
 ![Work Auth](https://img.shields.io/badge/Work%20Authorization-EU%20Work%20Rights%2C%20No%20Sponsorship%20Needed-7C3AED?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-kumar-94in/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahiya.kumar.arun@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahiya.akd94@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arundahiya94)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arundahiya94&color=8B5CF6&style=flat-square&label=Profile+Views)
