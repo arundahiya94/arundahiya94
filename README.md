@@ -62,18 +62,6 @@
 
 ---
 
-### 🏗️ Experience
-
-**AI Engineer Intern** — Mercedes-Benz, Stuttgart *(11/2025 – 05/2026)*
-Built multi-agent AI workflows on Vertex AI with LangGraph and Google ADK, automating corporate communications generation; implemented RAG pipelines grounded on internal knowledge bases to prevent hallucination.
-
-**Senior Software Engineer** — Iris Software Solutions, Noida *(09/2021 – 02/2024)*
-Redesigned a batch pipeline processing millions of records for a Citi regulatory tech team, cutting runtime by ~17%; built Python microservices and automated CI/CD with Jenkins.
-
-**Software Engineer** — Tech Mahindra, Noida *(09/2016 – 09/2021)*
-Delivered Java SOAP/REST integrations for telecom CRM systems supporting critical customer-facing workflows.
-
----
 
 ### 💼 Featured Project
 
@@ -89,6 +77,14 @@ Near-real-time ETL pipeline (GBFS API → Pub/Sub → BigQuery, ~2-min refresh) 
 - Building LLM Applications with Prompt Engineering (NVIDIA)
 - Adding Knowledge to LLMs (NVIDIA)
 - AWS Academy Cloud Foundations
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techwithgen&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 ---
 
