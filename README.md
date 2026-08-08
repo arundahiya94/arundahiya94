@@ -83,7 +83,7 @@ Near-real-time ETL pipeline (GBFS API → Pub/Sub → BigQuery, ~2-min refresh) 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techwithgen&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techwithgen&bg_color=00000000&color=38bdf8&line=38bdf8&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
