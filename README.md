@@ -62,14 +62,6 @@
 
 ---
 
-
-### 💼 Featured Project
-
-**City Bike Share Analytics Pipeline** — GCP · dbt · PySpark · Tableau
-Near-real-time ETL pipeline (GBFS API → Pub/Sub → BigQuery, ~2-min refresh) modeled with dbt across staging/fact/dimension layers; Tableau dashboards on station demand reduced idle time by 15%.
-
----
-
 ### 📜 Certifications
 
 - SAS Certified Specialist: Visual Business Analytics (SAS Viya)
