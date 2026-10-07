@@ -1,108 +1,47 @@
-<h1 align="center">Hi 👋, I'm Arun Kumar</h1>
-<h3 align="center">AI Engineer | GenAI & Agentic AI Systems | RAG · LangGraph · Vertex AI</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+multi-agent+AI+systems+in+production;RAG+pipelines+%7C+LangGraph+%7C+Google+ADK;7%2B+years+software+engineering+%E2%86%92+AI+engineering" alt="Typing SVG" />
+  <img src="./assets/hero.svg?v=2" alt="Arun Kumar: turning complex data and GenAI into production reality. Data and AI Engineer in Mannheim, Germany" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=arundahiya94&label=Profile%20Views&color=7AA2F7&style=flat" alt="profile views" />
-<img src="https://img.shields.io/badge/Location-Germany-1a1b27?style=flat&labelColor=1a1b27&color=7AA2F7" alt="location" />
-<img src="https://img.shields.io/badge/Open%20to-Work-1a1b27?style=flat&labelColor=1a1b27&color=9ece6a" alt="open to work" />
+  <img src="./assets/about-life.svg?v=2" alt="About Arun: agentic AI and RAG, cloud data pipelines, CI/CD and containers, NLP research. Interests: reading books, exploring new tech, programming" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/stack.svg?v=2" alt="Tech stack: Python, Java, SQL, PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, Google Cloud, BigQuery, Airflow, Kafka, Docker, Kubernetes, Jenkins, Git" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/id-dashboard.svg?v=2" alt="Arun Kumar ID card with verified GitHub stats: 15 stars, 54 pull requests, 510 commits last year, 77-day longest streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/connect.svg?v=2" alt="Let's connect: LinkedIn and GitHub" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arun-kumar-94in/"><b>LinkedIn: arun-kumar-94in</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/arundahiya94"><b>GitHub: arundahiya94</b></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## Projects
 
-- 🤖 AI Engineer focused on **multi-agent systems, RAG pipelines, and LLM applications** in production
-- 🏗️ 7+ years of software engineering (Java, Python) before moving into AI/data engineering
-- 🎓 M.Sc. Applied Data Science and Analytics, SRH University Heidelberg
-- 🇩🇪 Based in Germany — 18-month post-study work permit, full work rights, no visa sponsorship needed, EU Blue Card eligible
-- 🌱 Currently exploring **Agentic AI, multi-agent orchestration, and production RAG architectures**
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [**Mental Health Reddit Classifier**](https://github.com/arundahiya94/mental-health-reddit-classifier) | M.Sc. thesis: multi-label classification of mental health discussions across 7 dimensions, comparing 5 transformer architectures. DeBERTa reached 82.1% accuracy and 79% macro F1. | PyTorch, Hugging Face Transformers, data augmentation, multi-task learning |
+| [**FER-2013 Emotion Recognition**](https://github.com/arundahiya94/fer2013-distillation) | Facial emotion recognition at 74.3% accuracy using knowledge distillation (VGG-13 teacher to EfficientNet-B0 student) with RandAugment and Mixup. | PyTorch, computer vision, model compression |
+| [**GenAI News Generator**](https://github.com/arundahiya94/genai-news-generator) | Generates context-aware newspaper articles with a RAG architecture, from uploaded documents or web sources. | LangChain, RAG, LLMs, Python |
+| [**City Bike Share Analytics Pipeline**](https://github.com/arundahiya94) | Near-real-time pipeline feeding operational dashboards with 2-minute refresh, which cut station idle time by 15%. | GCP BigQuery, dbt, Airflow |
+| [**Candidate Predictor API**](https://github.com/arundahiya94/candidate-predictor-api) | Predicts candidate hireability with logistic regression, served as a REST API with Flask and Docker. | Flask, Docker, scikit-learn |
 
----
+## Background
 
-### ⚡ Tech Stack
-
-**Languages & Core**
-<p>
-<img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=bb9af7" />
-<img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7dcfff" />
-</p>
-
-**AI / ML / NLP**
-<p>
-<img src="https://img.shields.io/badge/PyTorch-1a1b27?style=for-the-badge&logo=pytorch&logoColor=ff9e64" />
-<img src="https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=ff9e64" />
-<img src="https://img.shields.io/badge/HuggingFace-1a1b27?style=for-the-badge&logo=huggingface&logoColor=e0af68" />
-<img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=9ece6a" />
-<img src="https://img.shields.io/badge/LangGraph-1a1b27?style=for-the-badge&logo=graphql&logoColor=9ece6a" />
-<img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&logo=scikit-learn&logoColor=f7768e" />
-</p>
-
-**Data & Cloud**
-<p>
-<img src="https://img.shields.io/badge/Google%20Cloud-1a1b27?style=for-the-badge&logo=googlecloud&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge&logo=amazonaws&logoColor=e0af68" />
-<img src="https://img.shields.io/badge/Airflow-1a1b27?style=for-the-badge&logo=apacheairflow&logoColor=7dcfff" />
-<img src="https://img.shields.io/badge/dbt-1a1b27?style=for-the-badge&logo=dbt&logoColor=ff9e64" />
-<img src="https://img.shields.io/badge/Kafka-1a1b27?style=for-the-badge&logo=apachekafka&logoColor=bb9af7" />
-<img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=7AA2F7" />
-<img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=for-the-badge&logo=kubernetes&logoColor=7dcfff" />
-</p>
-
-**Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e" />
-<img src="https://img.shields.io/badge/Jenkins-1a1b27?style=for-the-badge&logo=jenkins&logoColor=e0af68" />
-<img src="https://img.shields.io/badge/Jira-1a1b27?style=for-the-badge&logo=jira&logoColor=7AA2F7" />
-</p>
-
----
-
-### 📜 Certifications
-
-- SAS Certified Specialist: Visual Business Analytics (SAS Viya)
-- Fundamentals of Deep Learning (NVIDIA)
-- Building LLM Applications with Prompt Engineering (NVIDIA)
-- Adding Knowledge to LLMs (NVIDIA)
-- AWS Academy Cloud Foundations
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=techwithgen&bg_color=00000000&color=38bdf8&line=38bdf8&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="./profile/stats.svg" alt="GitHub Stats" height="165"/>
-<img src="./profile/top-langs.svg" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-<img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="./profile/trophy.svg" alt="trophies" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-<a href="mailto:dahiya.akd94@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e" /></a>
-<a href="https://www.linkedin.com/in/arun-kumar-94in/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
-<a href="https://github.com/arundahiya94"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5" /></a>
-</p>
+- M.Sc. Applied Data Science and Analytics, SRH University Heidelberg (grade 1.4)
+- AI Engineer Intern at Mercedes-Benz (2025 to 2026): LangGraph and Vertex AI content workflow with RAG over 4,500 documents, turnaround cut from 120 to under 30 minutes
+- 7+ years of software engineering in Java and Python at Tech Mahindra and Iris Software Solutions
+- Full work rights in Germany, no sponsorship required, EU Blue Card eligible
+- Certifications: SAS Certified Specialist (Visual Business Analytics), NVIDIA Deep Learning Institute courses in deep learning, LLM applications with prompt engineering, and adding knowledge to LLMs, AWS Academy Cloud Foundations
 
 <p align="center"><i>"Ship the agent, ground the answer, measure the impact."</i></p>
